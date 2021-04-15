@@ -8,9 +8,11 @@ Required pip installs: django.
 2. Open the folder "ToDo-List_using-Django-main" as a project in Vistual Studio Code or PyCharm,
    Or open cmd in that folder if you don't use any sofware.
 
-3. In cmd or terminal and do the following commands:
-        1. pip install django
-        2. cd ToDoProject
-        3. python manage.py runserver
+3. In cmd or terminal do the following commands:
 
-After that you can open your browser and go to: http://127.0.0.1:8000/ and you will se the ToDoList web app running.
+1. pip install django
+2. cd ToDoProject
+3. python manage.py runserver
+       
+
+After that you can open your browser and go to: http://127.0.0.1:8000/ and you will see the ToDoList web app running.
